@@ -1,11 +1,11 @@
 ## 👋 Olá, sou **Ketni Camargo**
 
 
-Tenho 27 anos.
+Tenho 28 anos.
 
 
 
- - 🎓 Cursando 3° semestre de **Análise e Desenvolvimento de Sistemas** na [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br/)
+ - 🎓 Cursando 5° semestre de **Análise e Desenvolvimento de Sistemas** na [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br/)
  - 💼 **Assistente de Suporte de IT** na [Flex](https://www.google.com/)
 
 ## 🚀 Habilidades
