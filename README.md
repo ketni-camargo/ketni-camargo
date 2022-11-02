@@ -23,7 +23,7 @@ Tenho 28 anos.
 
 ## 🌐 Redes Sociais
 
-<a href="https://www.linkedin.com/in/<URL-LINKEDIN>" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="[https://www.linkedin.com/in/<URL-LINKEDIN>](https://www.linkedin.com/in/ketni-camargo-687700248)" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:ketni.camargo@fatec.sp.gov.br" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
