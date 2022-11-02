@@ -13,12 +13,13 @@ Tenho 28 anos.
 **Linguagens e Bibliotecas**
 
   - C
- - Pacote Office
+  - C#
+ - Java
+ - HTML, CSS e JS
 
 **Ferramentas de Desenvolvimento**
 
  - Visual Studio Code
- - Git
  - Github
 
 ## 🌐 Redes Sociais
